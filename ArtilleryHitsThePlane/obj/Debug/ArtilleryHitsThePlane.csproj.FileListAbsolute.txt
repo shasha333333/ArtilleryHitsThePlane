@@ -1,0 +1,11 @@
+D:\Work Files\C# program\repo\ArtilleryHitsThePlane\ArtilleryHitsThePlane\obj\Debug\ArtilleryHitsThePlane.csproj.AssemblyReference.cache
+D:\Work Files\C# program\repo\ArtilleryHitsThePlane\ArtilleryHitsThePlane\obj\Debug\ArtilleryHitsThePlane.Properties.Resources.resources
+D:\Work Files\C# program\repo\ArtilleryHitsThePlane\ArtilleryHitsThePlane\obj\Debug\ArtilleryHitsThePlane.csproj.GenerateResource.cache
+D:\Work Files\C# program\repo\ArtilleryHitsThePlane\ArtilleryHitsThePlane\obj\Debug\ArtilleryHitsThePlane.csproj.CoreCompileInputs.cache
+D:\Work Files\C# program\repo\ArtilleryHitsThePlane\ArtilleryHitsThePlane\bin\Debug\ArtilleryHitsThePlane.exe.config
+D:\Work Files\C# program\repo\ArtilleryHitsThePlane\ArtilleryHitsThePlane\bin\Debug\ArtilleryHitsThePlane.exe
+D:\Work Files\C# program\repo\ArtilleryHitsThePlane\ArtilleryHitsThePlane\bin\Debug\ArtilleryHitsThePlane.pdb
+D:\Work Files\C# program\repo\ArtilleryHitsThePlane\ArtilleryHitsThePlane\obj\Debug\ArtilleryHitsThePlane.exe
+D:\Work Files\C# program\repo\ArtilleryHitsThePlane\ArtilleryHitsThePlane\obj\Debug\ArtilleryHitsThePlane.pdb
+D:\Work Files\C# program\repo\ArtilleryHitsThePlane\ArtilleryHitsThePlane\obj\Debug\ArtilleryHitsThePlane.MainForm.resources
+D:\Work Files\C# program\repo\ArtilleryHitsThePlane\ArtilleryHitsThePlane\obj\Debug\ArtilleryHitsThePlane.Forms.PlaneCountForm.resources
